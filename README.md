@@ -22,17 +22,10 @@
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
   
 &nbsp;<div align="center">
-  This repository is [unlicense](https://choosealicense.com/licenses/unlicense/)[d], feel free to fork!<br><br>
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/borges-marcelo001804/)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](http://mborges1231@gmail.com)
   [![Visits](https://komarev.com/ghpvc/?username=marceloborg3s&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/marceloborg3s)
+ 
+ ![Snake animation](https://github.com/marceloborg3s/marceloborg3s/blob/output/github-contribution-grid-snake.svg)
 </div>
- 
-<div>
-  <a href="https://instagram.com/borges__marcelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mborges1231@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/borges-marcelo001804/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/marceloborg3s/marceloborg3s/blob/output/github-contribution-grid-snake.svg)
-
 </div>
