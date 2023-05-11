@@ -19,7 +19,7 @@
 
   - 💬 Ask me about **Node.JS, JavaScript, HTML, CSS, Tailwind, Sass, MongoDB, PostgreSQL**
   
-  - 📚 Postgraduate degree in software engineering (in progress)
+  - 📚 Postgraduate degree in Software Engineering (in progress)
   
   <br><br>
   </div>
