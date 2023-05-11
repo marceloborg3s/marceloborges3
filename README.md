@@ -5,7 +5,7 @@
 <h1 align="left"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marceloborg3s&color=orange" alt="Profile views" /> </p>
 <br><br>
-<p align="left">   
+<p align="left" width="40%">   
   
 - 🔥 Web Developer
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Node.JS, JavaScript, HTML, CSS, Tailwind, Sass, MongoDB, PostgreSQL**
 </p>
-  &nbsp;<div align="center">
+  &nbsp;<div align="center" width="40%">
   
 <br><br>
 
