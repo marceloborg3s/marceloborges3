@@ -13,7 +13,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=marceloborg3s&color=orange" alt="Profile views" /> </p>
   <br><br>
     
-  - 🔥 #Web Developer
+  - 🔥 Web Developer
 
   - 🔭 I’m currently working at [MCA Audit and Management Ltd.](https://www.mca.srv.br/site/)
 
