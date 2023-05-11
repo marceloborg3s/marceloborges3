@@ -5,15 +5,15 @@
 <h1 align="left"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marceloborg3s&color=orange" alt="Profile views" /> </p>
 <br><br>
-<p align="left">   
+
   
-- 🔥 Web Developer
+- 🔥 #Web Developer
 
 - 🔭 I’m currently working at [MCA Audit and Management Ltd.](https://www.mca.srv.br/site/)
 
 - 💬 Ask me about **Node.JS, JavaScript, HTML, CSS, Tailwind, Sass, MongoDB, PostgreSQL**
-</p>
-  &nbsp;<div align="cente">
+ 
+&nbsp;<div align="center" width="40%">
   
 <br><br>
 
