@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e34e7&height=120&section=header"/>
-<img align="right" height="580em" src="https://raw.githubusercontent.com/gist/marceloborg3s/6b372bb3ed8a7be772ef20767f53d8c0/raw/73776db1de14e5fe2b96cf6a30c2f4e6fa556f78/cards2.svg"/>
+<img align="right" width="40%" height="580em" src="https://raw.githubusercontent.com/gist/marceloborg3s/6b372bb3ed8a7be772ef20767f53d8c0/raw/73776db1de14e5fe2b96cf6a30c2f4e6fa556f78/cards2.svg"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f27a37&size=25&center=true&vCenter=true&width=500&lines=Hi,+My+name+is+Marcelo+Borges+;I'm+23+years+old;I'm+from+Mariana,+MG;I+Graduated+Systems+Analysis+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <h1 align="left"></h1>
