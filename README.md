@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e34e7&height=120&section=header"/>
-<img align="right" height="580em" src="https://raw.githubusercontent.com/gist/marceloborg3s/6b372bb3ed8a7be772ef20767f53d8c0/raw/73776db1de14e5fe2b96cf6a30c2f4e6fa556f78/cards2.svg"/>
+<div diplay="inline-block">
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/marceloborg3s/6b372bb3ed8a7be772ef20767f53d8c0/raw/73776db1de14e5fe2b96cf6a30c2f4e6fa556f78/cards2.svg"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f27a37&size=25&center=true&vCenter=true&width=500&lines=Hi,+My+name+is+Marcelo+Borges+;I'm+23+years+old;I'm+from+Mariana,+MG;I+Graduated+Systems+Analysis+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+<h1 align="left"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marceloborg3s&color=orange" alt="Profile views" /> </p>
 
 - 🔥 Web Developer
@@ -12,7 +13,7 @@
 - 💬 Ask me about **Node.JS, JavaScript, HTML, CSS, Tailwind, Sass, MongoDB, PostgreSQL**
 
   &nbsp;<div align="center">
-
+</div>
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -35,8 +36,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=marceloborg3s&show_icons=true&theme=vision-friendly-dark" alt="marcelo's stats"/>
-<img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloborg3s&layout=compact&theme=vision-friendly-dark" alt="marcelo's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=marceloborg3s&show_icons=true&theme=vision-friendly-dark" alt="marcelo's stats"/>
+<img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloborg3s&layout=compact&theme=vision-friendly-dark" alt="marcelo's most languages"/>
 </p>
 
 ![Snake animation align="center"](https://github.com/marceloborg3s/marceloborg3s/blob/output/github-contribution-grid-snake.svg)
