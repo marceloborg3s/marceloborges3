@@ -21,7 +21,7 @@
   
   - 📚 Postgraduate degree in Software Engineering (in progress)
   
-  <br><br>
+   <br><br>
   </div>
 </div>
   
